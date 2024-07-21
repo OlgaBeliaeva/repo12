@@ -1,0 +1,112 @@
+$ cat history.txt
+    1  . code
+    2  code .
+    3  git config --global user.name "OlgaBeliaeva"
+    4  git config --global user.email "olgabel505@web.de"
+    5  eval "$(ssh-agent -s)"
+    6  ssh-add C:\Users\Olga\.ssh\id_rsa
+    7  ssh-add C:/Users/Olga/.ssh/id_rsa
+    8  ssh-add -l
+    9  mkdir git_intro
+   10  cd git_intro
+   11  git init
+   12  git add photo.jpg
+   13  git add C:/Users/Olga/git_intro/photo.jpg
+   14  git add C:\Users\Olga\git_intro\photo.jpg
+   15  git add C:/Users/Olga/git_intro/photo.jpg
+   16  git add C:/Users/Olga/git_intro/photo.jpg
+   17  git add C:/Users/Olga/git_intro/git/photo.jpg
+   18  ls -la C:/Users/Olga/git_intro/git
+   19  cd ./Users
+   20  cd C:/
+   21  cd/Olga
+   22  pwd
+   23  cd /Users
+   24  cd /Benutzer
+   25  cd users
+   26  git add C:/users/Olga/git_intro/git/photo.jpg
+   27  pwd
+   28  cd Olga
+   29  cd git_intro
+   30  pwd
+   31  ls -la /c/users/Olga/git_intro
+   32  git add C:/Users/Olga/git_intro/.git/
+   33
+   34  git add C:/users/Olga/git_intro/git/photo.jpg
+   35  git add C:/users/Olga/git_intro/git/photo.jpg
+   36  git add photo.jpg
+   37  git add kot
+   38  git add C:/users/Olga/git_intro/kot
+   39  git status
+   40  git add kot.avif
+   41  git commit -m "Added photo"
+   42  git branch -m main
+   43  git remote add origin git@github.com:OlgaBeliaeva/git_intro.git
+   44  git push -u origin main
+   45  eval "$(ssh-agent -s)"
+   46  ssh-add C:/Users/Olga/.ssh/id_rsa
+   47  git remote add origin git@github.com:OlgaBeliaeva/git_intro.git
+   48  git push -u origin main
+   49  mkdir ¬/git_intro
+   50  mkdir /git_intro
+   51  mkdir ~/git_intro
+   52  cat ~/git_intro/
+   53  ls -la ~/git_intro/
+   54  rm -r ~/git_intro/
+   55  cat ~/git_intro
+   56  clear
+   57  mkdir ~/gir_intro
+   58  cd ~/git_intro
+   59  pwd
+   60  cd ~
+   61  ped
+   62  pwd
+   63  cd ~/
+   64  pwd
+   65  cd ./
+   66  pwd
+   67  mkdir ~/git_intro
+   68  cd git_intro
+   69  git init
+   70  git branch -M main
+   71  cd /c/Foto/Dilara
+   72  cd /c/FOTO/
+   73  cp DILARA.jpg ~/git_intro/
+   74  pwd
+   75  pwd
+   76  cd ~/git_intro
+   77  git add DILARA.jpg
+   78  git commit -m "Add a photo of my dog"
+   79  git remote add origin git@github.com:OlgaBeliaeva/git_intro.git
+   80  git push -u origin main
+   81  pwd
+   82  cd -
+   83  pwd
+   84  cd -
+   85  pwd
+   86  cd -
+   87  pwd
+   88  cd ~
+   89  pwd
+   90  git init
+   91  rm -rf .git
+   92  pwd
+   93  cd ~
+   94  git clone git@github.com:OlgaBeliaeva/repo12.git
+   95  cd repo12
+   96  git status
+   97  git log
+   98  pwd
+   99  git checkout -b feature
+  100  echo "Project 12" > README.md
+  101  echo "*.exe" > .gitignore
+  102  ls -la
+  103  git add README.md
+  104  git add .gitignore
+  105  git status
+  106  git commit -m "add files"
+  107  git push -u origin feature
+  108  git commit --amend
+  109   git push --force origin feature
+  110  git push -u origin  main
+  111  history > history.txt
